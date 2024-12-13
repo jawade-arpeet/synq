@@ -9,8 +9,8 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     --background-color: rgb(12 10 9);
-    --foreground: rgb(250 250 249);
+    --foreground-color: rgb(250 250 249);
     background-color: var(--background-color);
-    color: var(--foreground);
+    color: var(--foreground-color);
 }
 
